@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{177:function(e,t,n){"use strict";n.r(t);var r=n(0),o=n.n(r),c=n(27),i=(n(14),n(7));t.default=function(){return o.a.createElement(c.Redirect,{noThrow:!0,to:Object(i.c)("/ziegertreport/")})}}}]);
+//# sourceMappingURL=component---src-pages-index-js-0d0549d1c07242109c94.js.map
